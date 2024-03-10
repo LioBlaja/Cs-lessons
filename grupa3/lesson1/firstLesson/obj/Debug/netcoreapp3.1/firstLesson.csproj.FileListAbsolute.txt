@@ -1,0 +1,14 @@
+C:\Users\danbl\OneDrive - Universitatea Politehnica Timisoara\folders\c#\Cs-lessons\grupa3\lesson1\firstLesson\bin\Debug\netcoreapp3.1\firstLesson.exe
+C:\Users\danbl\OneDrive - Universitatea Politehnica Timisoara\folders\c#\Cs-lessons\grupa3\lesson1\firstLesson\bin\Debug\netcoreapp3.1\firstLesson.deps.json
+C:\Users\danbl\OneDrive - Universitatea Politehnica Timisoara\folders\c#\Cs-lessons\grupa3\lesson1\firstLesson\bin\Debug\netcoreapp3.1\firstLesson.runtimeconfig.json
+C:\Users\danbl\OneDrive - Universitatea Politehnica Timisoara\folders\c#\Cs-lessons\grupa3\lesson1\firstLesson\bin\Debug\netcoreapp3.1\firstLesson.runtimeconfig.dev.json
+C:\Users\danbl\OneDrive - Universitatea Politehnica Timisoara\folders\c#\Cs-lessons\grupa3\lesson1\firstLesson\bin\Debug\netcoreapp3.1\firstLesson.dll
+C:\Users\danbl\OneDrive - Universitatea Politehnica Timisoara\folders\c#\Cs-lessons\grupa3\lesson1\firstLesson\bin\Debug\netcoreapp3.1\firstLesson.pdb
+C:\Users\danbl\OneDrive - Universitatea Politehnica Timisoara\folders\c#\Cs-lessons\grupa3\lesson1\firstLesson\obj\Debug\netcoreapp3.1\firstLesson.csproj.AssemblyReference.cache
+C:\Users\danbl\OneDrive - Universitatea Politehnica Timisoara\folders\c#\Cs-lessons\grupa3\lesson1\firstLesson\obj\Debug\netcoreapp3.1\firstLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danbl\OneDrive - Universitatea Politehnica Timisoara\folders\c#\Cs-lessons\grupa3\lesson1\firstLesson\obj\Debug\netcoreapp3.1\firstLesson.AssemblyInfoInputs.cache
+C:\Users\danbl\OneDrive - Universitatea Politehnica Timisoara\folders\c#\Cs-lessons\grupa3\lesson1\firstLesson\obj\Debug\netcoreapp3.1\firstLesson.AssemblyInfo.cs
+C:\Users\danbl\OneDrive - Universitatea Politehnica Timisoara\folders\c#\Cs-lessons\grupa3\lesson1\firstLesson\obj\Debug\netcoreapp3.1\firstLesson.csproj.CoreCompileInputs.cache
+C:\Users\danbl\OneDrive - Universitatea Politehnica Timisoara\folders\c#\Cs-lessons\grupa3\lesson1\firstLesson\obj\Debug\netcoreapp3.1\firstLesson.dll
+C:\Users\danbl\OneDrive - Universitatea Politehnica Timisoara\folders\c#\Cs-lessons\grupa3\lesson1\firstLesson\obj\Debug\netcoreapp3.1\firstLesson.pdb
+C:\Users\danbl\OneDrive - Universitatea Politehnica Timisoara\folders\c#\Cs-lessons\grupa3\lesson1\firstLesson\obj\Debug\netcoreapp3.1\firstLesson.genruntimeconfig.cache
